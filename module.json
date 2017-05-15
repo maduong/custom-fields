@@ -1,0 +1,9 @@
+{
+    "alias": "edutalk-custom-fields",
+    "name": "Edutalk custom fields",
+    "author": "Vuong Pham",
+    "description": "Edutalk custom fields package",
+    "namespace": "Edutalk\\Base\\CustomFields",
+    "autoload": "psr-4",
+    "require": {}
+}
