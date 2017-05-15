@@ -3,6 +3,10 @@
     "description": "Edutalk Custom Fields",
     "license": "MIT",
     "homepage": "http://edutalk.vn",
+    "support": {
+        "issues": "https://github.com/maduong/custom-fields/issues",
+        "source": "https://github.com/maduong/custom-fields"
+    },
     "authors": [
         {
             "name": "Vuong Pham",
